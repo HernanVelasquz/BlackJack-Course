@@ -1,0 +1,2 @@
+# Black Jack
+Este juego se desarrollo en las tecnologias basicas de HTML, CSS, JavaScript; como laboratorio de desarrollo y afianzamientos de los conceptos de Javascript en el curso de fernando herrera Llamado "JavaScript Moderno: Guía para dominar el lenguaje".
